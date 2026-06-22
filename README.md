@@ -1,22 +1,19 @@
-<<<<<<< HEAD
-# flutter_application_1
+# CinePick (Flutter Movie App)
+CinePick은 사용자가 다양한 영화 중에서 원하는 작품을 쉽게 찾고 선택할 수 있도록 돕는 영화 검색 및 큐레이션 애플리케이션이다.
 
-A new Flutter project.
+## 프로젝트 설명
+Flutter 기반 영화 정보 애플리케이션입니다.
 
-## Getting Started
+## 주요 기능
+- 영화 검색 기능
+- 영화 상세 정보 확인
+- 장르별 필터링
+- 현재 상영작 확인
+- 즐겨찾기 추가/삭제
 
-This project is a starting point for a Flutter application.
+## 개발 환경
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# -_CinePick
-Flutter 기반 영화 검색 어플리케이션
->>>>>>> 9eeee62ffc5f13856493e543e865285f2adabed4
+## 참고
+AI(ChatGPT)를 활용하여 UI 구조 및 일부 코드 개선을 진행하였습니다.
